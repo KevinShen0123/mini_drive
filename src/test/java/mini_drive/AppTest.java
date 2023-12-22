@@ -3,7 +3,7 @@
  */
 package test.java.mini_drive;
 
-import main.java.mini_drive.App;
+import mini_drive.App;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
