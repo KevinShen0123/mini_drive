@@ -35,5 +35,5 @@ jobs:
           npm run build
 
       - name: Run Spring Boot Application
-        run: gradle bootRun
         working-directory: .
+        run: gradle bootRun
