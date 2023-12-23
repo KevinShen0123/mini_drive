@@ -31,7 +31,7 @@ jobs:
         run: |
           cd drive
           npm install
-          npm start
+          npm run build
 
       - name: Run Spring Boot Application
         run: gradle bootRun
