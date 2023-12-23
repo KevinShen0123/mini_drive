@@ -36,3 +36,4 @@ jobs:
 
       - name: Run Spring Boot Application
         run: gradle bootRun
+        working-directory: .
