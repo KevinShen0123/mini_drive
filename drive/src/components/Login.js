@@ -51,7 +51,7 @@ export default function Login() {
                 </div>
                 <div className="login-modal-left-bottom">
                     <div className="helper-links">
-                        <a >Register now</a>
+                        <a>Register now</a>
                     </div>
                     <div className="separator">or</div>
                     <div className="social-logins">
